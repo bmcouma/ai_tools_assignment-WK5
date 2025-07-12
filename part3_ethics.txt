@@ -1,0 +1,12 @@
+#PART 3: ETHICS & OPTIMIZATION
+
+# Ethical Reflection
+'''
+Bias Risk:
+- Amazon reviews could reflect biased language (e.g., gendered expressions).
+- MNIST is grayscale and simple; bias is low, but representation of digits can vary by culture.
+
+Mitigation:
+- Use TensorFlow Fairness Indicators to evaluate group-wise fairness.
+- Rule-based systems in spaCy can filter toxic or biased outputs.
+'''
