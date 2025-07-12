@@ -1,0 +1,52 @@
+# AI TOOLS ASSIGNMENT - MASTERING THE AI TOOLKIT
+# GROUP PROJECT - PLP
+
+# ---- PART 1: THEORETICAL UNDERSTANDING ----
+
+# Q1: Differences Between TensorFlow and PyTorch
+'''
+TensorFlow:
+- Developed by Google.
+- Uses static computation graphs (eager execution now available).
+- Better suited for production-level deployment (TF Serving, TF Lite).
+- Popular in industry settings.
+
+PyTorch:
+- Developed by Facebook.
+- Dynamic computation graphs (define-by-run).
+- Easier for debugging and experimentation.
+- Preferred in academic and research contexts.
+
+When to choose:
+- TensorFlow for scalable production environments.
+- PyTorch for flexible research experimentation.
+'''
+
+# Q2: Use Cases for Jupyter Notebooks
+'''
+1. Interactive experimentation with AI/ML models (data visualization, live coding).
+2. Sharing reproducible experiments and documentation as reports.
+'''
+
+# Q3: How spaCy Enhances NLP
+'''
+- Built-in pipeline for tokenization, POS tagging, NER, and more.
+- Faster and more accurate than basic string operations.
+- Uses pretrained models for real-world NLP.
+'''
+
+# Comparative Analysis: Scikit-learn vs TensorFlow
+'''
+Target Applications:
+- Scikit-learn: Classical ML (SVM, Decision Trees, KNN, etc).
+- TensorFlow: Deep learning (CNNs, RNNs, transformers).
+
+Ease of Use:
+- Scikit-learn: Beginner friendly, consistent API.
+- TensorFlow: Steeper learning curve (Keras API improves this).
+
+Community:
+- Both have strong communities. TensorFlow slightly more resources and support.
+'''
+
+
