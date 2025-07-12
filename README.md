@@ -1,4 +1,4 @@
-# ai_tools_assignment-WK5
+# ai_tools-WK5
 
 # AI Tools Assignment - Mastering the AI Toolkit  
 
@@ -106,6 +106,11 @@ This is a simple Streamlit app that uses a trained TensorFlow model to classify 
     streamlit run app_streamlit.py
     ```
 
+RUN   pip install -r requirements.txt
+TO ISNTALL REQUIREMENTS
+
 ## Author
+
 Bravin Ouma
+
 Full Stack Engineer | AI Tools Enthusiast | PLP Cohort  
